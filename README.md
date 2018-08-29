@@ -1,7 +1,7 @@
 # angular-example
 Example for template generating 
 
-
+personal virtues if virtual...
 Docker examples for learning: 
 https://www.drupal.org/docs/develop/local-server-setup/docker-development-environments
 
